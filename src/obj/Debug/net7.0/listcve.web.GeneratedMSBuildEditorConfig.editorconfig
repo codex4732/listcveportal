@@ -1,0 +1,49 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = listcve.web
+build_property.RootNamespace = listcve.web
+build_property.ProjectDir = C:\Users\Julian\Documents\projects\listcve\src\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Julian\Documents\projects\listcve\src
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Julian/Documents/projects/listcve/src/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Julian/Documents/projects/listcve/src/listcve.client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = bGlzdGN2ZS5jbGllbnRcX0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Julian/Documents/projects/listcve/src/listcve.shared/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = bGlzdGN2ZS5zaGFyZWRcX0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Julian/Documents/projects/listcve/src/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Julian/Documents/projects/listcve/src/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Julian/Documents/projects/listcve/src/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Julian/Documents/projects/listcve/src/listcve.client/Component1.razor]
+build_metadata.AdditionalFiles.TargetPath = bGlzdGN2ZS5jbGllbnRcQ29tcG9uZW50MS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-vbdyq5zt9j
+
+[C:/Users/Julian/Documents/projects/listcve/src/listcve.shared/Component1.razor]
+build_metadata.AdditionalFiles.TargetPath = bGlzdGN2ZS5zaGFyZWRcQ29tcG9uZW50MS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-gysq0v6cjo

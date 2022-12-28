@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listcve.web", "listcve.web.csproj", "{972EBFA1-E1A3-4C3E-A99F-1AA954A7A589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listcve.client", "listcve.client\listcve.client.csproj", "{58CBC544-70B6-44B4-BC49-92D7123FC3C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listcve.shared", "listcve.shared\listcve.shared.csproj", "{08916CAD-114C-46FD-81B1-1A82CA1DAFB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{972EBFA1-E1A3-4C3E-A99F-1AA954A7A589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972EBFA1-E1A3-4C3E-A99F-1AA954A7A589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972EBFA1-E1A3-4C3E-A99F-1AA954A7A589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972EBFA1-E1A3-4C3E-A99F-1AA954A7A589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58CBC544-70B6-44B4-BC49-92D7123FC3C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CBC544-70B6-44B4-BC49-92D7123FC3C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CBC544-70B6-44B4-BC49-92D7123FC3C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CBC544-70B6-44B4-BC49-92D7123FC3C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08916CAD-114C-46FD-81B1-1A82CA1DAFB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08916CAD-114C-46FD-81B1-1A82CA1DAFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08916CAD-114C-46FD-81B1-1A82CA1DAFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08916CAD-114C-46FD-81B1-1A82CA1DAFB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
